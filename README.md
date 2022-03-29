@@ -1,6 +1,6 @@
 # alternate-script-demo
 Demo for mapping alternate names in Beacon.
-Actual work on Beacon done in [this branch](https://github.com/Euthor/beacon/tree/alternate-script)
+Actual work on Beacon done in [this branch](https://github.com/Euthor/beacon/tree/alternate-script).
 
 This mapper function only applies to `Info4C_Sanction_Lists`.
 
